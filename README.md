@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @luxkao
+- 👀 I’m interested in being a front-end dev 
+- 🌱 I’m currently learning Javascript 
